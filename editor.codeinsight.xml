@@ -1,0 +1,12 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
+  <component name="OCCodeFoldingSettings">
+    <option name="collapseTemplateParamList" value="false" />
+    <option name="COLLAPSE_TEMPLATE_PARAM_LIST" value="false" />
+  </component>
+</application>
